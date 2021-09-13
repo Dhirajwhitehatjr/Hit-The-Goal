@@ -1,6 +1,5 @@
 
 var canvas = new fabric.Canvas('myCanvas');
-var x = document.getElementById("myA");
 
 ball_y = 0;
 ball_x = 0;
